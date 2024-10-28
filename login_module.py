@@ -1,0 +1,1 @@
+def login_user(username, password):\n    if not username or not password:\n        print("Username and password are required.")\n        return False\n    print(f"Logging in user: {username}")\n    return True

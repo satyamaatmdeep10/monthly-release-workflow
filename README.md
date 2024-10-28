@@ -1,0 +1,1 @@
+# Monthly Release Workflow Demo\n\nThis project demonstrates a Git Workflow for monthly product releases with a focus on stability and continuous integration.\n\n### Modules\n- : Handles user login\n- : Handles user signup
